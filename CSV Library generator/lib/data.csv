@@ -1,0 +1,9 @@
+f,name,overall_width,overall_depth,overall_height,width,depth,height,return_representations,blanket_tan
+create_fancy_rectangle_table,small table,,,,600,600,300,TRUE,
+create_fancy_rectangle_table,medium table,,,,700,700,400,TRUE,
+create_fancy_bed_representations,large bed,2000,2000,500,,,,,0.414213562373095
+create_fancy_rectangle_table,small_A,,,,900,801,200,TRUE,
+create_fancy_rectangle_table,small_b,,,,802,802,502,TRUE,
+nahaha,ss,98,34,556,,,,,
+create_fancy_rectangle_table,long table,,,,1800,900,800,TRUE,
+create_fancy_wardrobe_representations,medium wardrobe,1200,600,2000,,,,,
